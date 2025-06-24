@@ -13,10 +13,6 @@ Here are a few previews of the website:
 ### 📱 Mobile View
 ![Mobile Screenshot](https://saim-ahmed-shawon.github.io/SaimAhmed/src/phone.png)
 
-> 📌 Replace the image links with your actual screenshots hosted on GitHub, Imgur, or any CDN.
-
-
----
 ## 🚀 Live Preview
 
 👉 [View Portfolio](https://saim-ahmed-shawon.github.io/SaimAhmed)  
